@@ -61,7 +61,7 @@ namespace ArrayExercises
         class Program (Main method(within Main method, call other methods), other methods)
   Case3 Pass the array value into a method within Program class
   Case4 Initialize the array value as a member field of Program Class.
-        (avoid creating static member variables for right now, we'd better creat variable in
+        (avoid creating static member variables for right now, we'd better create variable in
         main method) 
   Case5/6 Define a static method in another class; array varible can be defined 
         in either program class or main method;
